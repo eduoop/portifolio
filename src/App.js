@@ -7,6 +7,7 @@ import Portifolio from './components/portifolio/Portifolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/Footer/Footer'
+import { ToastContainer } from 'react-toastify';
 
 function App() {
   return (
